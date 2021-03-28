@@ -150,4 +150,3 @@ dependencies:
   - cuda90=1.0=0
   - pytorch=0.4.0=py36_cuda90_cudnn7he774522_1
 prefix: e:\toolkits.win\anaconda3-5.2.0\envs\dlwin36
-
